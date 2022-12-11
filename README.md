@@ -9,4 +9,4 @@ I am a full stack developer currenly working at Combain Mobile AB.
 
 - [lundsportal.se](https://lundsportal.se)
 - [Free Time Finder](https://ftf.phma.dev)
-- [Where Was I?](https://https://github.com/Philip2809/where-was-i)
+- [Where Was I?](https://github.com/Philip2809/where-was-i)
