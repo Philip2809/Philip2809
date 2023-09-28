@@ -1,4 +1,4 @@
-# Hi, I'am Philip!
+# Hi, I'm Philip!
 I am a full stack developer currenly working at Combain Mobile AB. 
 
 - [Website](https://phma.dev) (currently a work in progress)
@@ -11,3 +11,4 @@ I am a full stack developer currenly working at Combain Mobile AB.
 - [Bird View](https://birdview.se)
 - [Free Time Finder](https://ftf.phma.dev)
 - [Where Was I?](https://github.com/Philip2809/where-was-i)
+- 
